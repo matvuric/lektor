@@ -1,0 +1,7 @@
+[project]
+name = Demo
+
+
+[servers.ghpages]
+name = Prod
+target = ghpages+https://matvuric:903e3c51e651b8dcbc7b71e813f588187cd00b91@matvuric/matvuric.github.io
